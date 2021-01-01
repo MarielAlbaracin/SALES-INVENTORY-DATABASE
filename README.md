@@ -20,3 +20,6 @@ lV.Sales_team - show clearly a section of staff dedicated
 Database Dependency Diagram
 
 ![d](https://user-images.githubusercontent.com/70758395/103437682-3e908a80-4c65-11eb-9596-b62d0f099114.png)
+
+Queries
+
