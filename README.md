@@ -10,8 +10,11 @@ https://data.world/siyeh/sql-crm-example-data
 
 
  I. Account - this table shows all the accounts, revenue and the employees.
+ 
 ll.Employees - shows all the employees information.
+
 ll.Sales_pipeline - show you how many deals salespeople are expected to close  in a given week, month or year and how close a rep is to reaching their sales quota.
+
 lV.Sales_team - show clearly a section of staff dedicated
 
 Database Dependency Diagram
