@@ -49,4 +49,15 @@ ii. This query help ability to pinpoint the value of the product.
 
 ![Q3](https://user-images.githubusercontent.com/70758395/103456757-2b002500-4d34-11eb-8e4e-dd8bd47822b4.png)
 
+Q4.
+
+i. It show from account the how many employees in this database
+
+ii. This query help to know how many employees in this table.
+
+
+![q4](https://user-images.githubusercontent.com/70758395/103458137-29d4f500-4d40-11eb-80bd-4b24f9dc763b.png)
+
+
+
  
