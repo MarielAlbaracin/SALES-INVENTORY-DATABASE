@@ -23,3 +23,11 @@ Database Dependency Diagram
 
 Queries
 
+Q1.
+
+i. This query duplicate records in table from employees.
+
+ii. Its important because were joining the table to it self
+
+
+![q1](https://user-images.githubusercontent.com/70758395/103453209-7dc8e500-4d12-11eb-9841-2660757383af.png)
