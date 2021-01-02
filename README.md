@@ -33,6 +33,7 @@ ii. Its important because were joining the table to it self
 ![q1](https://user-images.githubusercontent.com/70758395/103453209-7dc8e500-4d12-11eb-9841-2660757383af.png)
 
 Q2.
+
 i. This query shows account from sale pipline
 
 ii. This imports to know what the colum from that table that you wanted. 
