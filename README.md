@@ -32,6 +32,8 @@ ii. Its important because were joining the table to it self
 
 ![q1](https://user-images.githubusercontent.com/70758395/103453209-7dc8e500-4d12-11eb-9841-2660757383af.png)
 
+
+
 Q2.
 
 i. This query shows account from sale pipline
@@ -57,6 +59,14 @@ ii. This query help to know how many employees in this table.
 
 
 ![q4](https://user-images.githubusercontent.com/70758395/103458137-29d4f500-4d40-11eb-80bd-4b24f9dc763b.png)
+
+Q5.
+
+i. It show create date for the product.
+
+ii. This query help statement list number.
+
+![q5](https://user-images.githubusercontent.com/70758395/103458628-f5176c80-4d44-11eb-8c06-0d7ed585c77c.png)
 
 
 
