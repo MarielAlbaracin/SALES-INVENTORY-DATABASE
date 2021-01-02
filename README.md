@@ -68,6 +68,12 @@ ii. This query help statement list number.
 
 ![q5](https://user-images.githubusercontent.com/70758395/103458628-f5176c80-4d44-11eb-8c06-0d7ed585c77c.png)
 
+Q6.
 
+i. Its shows a same created date in this database.
+
+ii. this query important to working with dates.
+
+![Q6](https://user-images.githubusercontent.com/70758395/103459155-f5fdcd80-4d47-11eb-9e9c-fddafbb2b107.png)
 
  
