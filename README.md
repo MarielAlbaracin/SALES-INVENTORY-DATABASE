@@ -1,5 +1,5 @@
 # SALES-INVENTORY-DATABASE
-![SALESerd](https://user-images.githubusercontent.com/70758395/103437556-ec9b3500-4c63-11eb-87d6-5743966e708e.png)
+![Blank diagram](https://user-images.githubusercontent.com/70758395/103454436-02b9fb80-4d1f-11eb-983a-5f814319d37e.png)
 
 The database is to inventory all the sales so that will help your employees quickly view what items are selling well, the time of day those items are most popular and what items need to be recorded to keep  your sales following. Inventory can be defined as stock that businesses hold with the aim of converting to revenue, inventory can be the form of raw materials and finished goods.
 
@@ -31,3 +31,12 @@ ii. Its important because were joining the table to it self
 
 
 ![q1](https://user-images.githubusercontent.com/70758395/103453209-7dc8e500-4d12-11eb-9841-2660757383af.png)
+
+Q2.
+i. This query shows account from sale pipline
+
+ii. This imports to know what the colum from that table that you wanted. 
+
+![q2](https://user-images.githubusercontent.com/70758395/103454442-1cf3d980-4d1f-11eb-9b0c-7481c07186d1.png)
+
+ 
