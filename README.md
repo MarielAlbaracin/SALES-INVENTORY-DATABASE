@@ -40,4 +40,13 @@ ii. This imports to know what the colum from that table that you wanted.
 
 ![q2](https://user-images.githubusercontent.com/70758395/103454442-1cf3d980-4d1f-11eb-9b0c-7481c07186d1.png)
 
+Q3.
+
+i. It show the product when the Close Value is.
+
+ii. This query help ability to pinpoint the value of the product.
+
+
+![Q3](https://user-images.githubusercontent.com/70758395/103456757-2b002500-4d34-11eb-8e4e-dd8bd47822b4.png)
+
  
